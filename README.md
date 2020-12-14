@@ -1,2 +1,2 @@
 # pong-monoplayer
-https://loulaty.github.io/pong-monoplayer/index.html
+https://loulaty.github.io/pong-monoplayer
